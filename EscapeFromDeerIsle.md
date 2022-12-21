@@ -9,7 +9,7 @@ By [Goon Gaming Group](https://discord.gg/goongaminggroup "GoonGamingGroup Disco
 
 ## Server Description
 
-ESCAPE FROM CHERNARUS is a PvP DayZ server Based on Escape From Tarkov and uses many mods to achieve a similar but unique harcore experience, We also feature a extraction mod that will take you to a safezone where you can buy a Safe hideout and have access to safe trader.
+ESCAPE FROM DEERISLE is a PvP DayZ server Based on Escape From Tarkov and uses many mods to achieve a similar but unique harcore experience, We also feature a extraction mod that will take you to a safezone where you can buy a Safe hideout and have access to safe trader.
 
 [Dexter's Youtube Video on the server #1](https://www.youtube.com/watch?v=GQivfNea7a0&t=3940s "Popular Video")
 
