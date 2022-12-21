@@ -1,4 +1,4 @@
-# ESCAPE FROM CHERNARUS 
+# ESCAPE FROM DeerIsle
 
 By [Goon Gaming Group](https://discord.gg/goongaminggroup "GoonGamingGroup Discord")
 
