@@ -5,7 +5,7 @@ By [Goon Gaming Group](https://discord.gg/goongaminggroup "GoonGamingGroup Disco
 
 > Goon Gaming Group is a community which was founded in March 2022 and started doing Dayz Servers in July 2022. Our Servers take core ideas from games like Escape From Tarkov and S.T.A.L.K.E.R. and brings them to DayZ. Please Join [Our Discord](https://discord.gg/goongaminggroup "GoonGamingGroup Discord") To stay up to date on updates/announcements!
 
- ![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/EscapeFromChernarusLoadingScreenV2.png?raw=true "Loading Screen")
+ ![alt text](https://github.com/Mitch3902/Escape-From-DeerIsle/blob/main/ESCAPEFROMDEERISLLOADINGSCREEN.png?raw=true "Loading Screen")
 
 ## Server Description
 
