@@ -1,4 +1,4 @@
-# ESCAPE FROM DeerIsle
+# ESCAPE FROM DEERISLE
 
 By [Goon Gaming Group](https://discord.gg/goongaminggroup "GoonGamingGroup Discord")
 
